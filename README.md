@@ -1,12 +1,13 @@
 README
 
 Data on Historical Cultural and Psychology in the U.S., 1850-1940
+
 Raz (2025)
 
 Last update: March 5, 2025
 
 
-This dataset contains seven county-level indicators capturing different features of historically close-knit communities, focusing on in-group identity, in-group preference, norms tightness, and kinship tightness, for 1850-1940, developed and used in Raz (2025):
+This dataset contains seven county-level indicators capturing different features of historically close-knit communities, focusing on in-group identity, in-group preference, norms tightness, and kinship tightness, for 1850-1940, harmonized for county borders of 1850, developed and used in Raz (2025):
 
 1.	In-Group Identity: Local Name Index (LNI)
 2.	In-Group Bias: Intra-Community Marriage (ICM)
