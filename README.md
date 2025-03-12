@@ -1,6 +1,7 @@
-README
+**README**
 
-Data on Historical Cultural and Psychology in the U.S., 1850-1940
+**Data on Historical Cultural and Psychology in the U.S., 1850-1940
+**
 
 Raz (2025)
 
