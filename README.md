@@ -1,10 +1,19 @@
-**README**
+<p align="center">
+  <h3 align="center">
+  Data on Historical Cultural and Psychology in the U.S., 1850-1940
+  </h3>
+</p>
 
-**Data on Historical Cultural and Psychology in the U.S., 1850-1940**
+<p align="center">
+  <h2 align="center">
+  Raz (2025)
+  </h2>
+</p>
 
-Raz (2025)
+<p align="center">
+  Last update: March 5, 2025
+</p>
 
-Last update: March 5, 2025
 
 
 This dataset contains seven county-level indicators capturing different features of historically close-knit communities, focusing on in-group identity, in-group preference, norms tightness, and kinship tightness, for 1850-1940, developed and used in Raz (2025):
