@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">
-  Data on Historical Cultural and Psychology in the U.S., 1850-1940
+  Data on Historical Culture and Psychology in the U.S., 1850-1940
   </h3>
 </p>
 
